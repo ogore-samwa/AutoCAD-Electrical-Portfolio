@@ -27,7 +27,7 @@ I specialize in designing safe, optimized, and sustainable electrical systems fo
 <table width="100%">
  <tr>
  <td width="50%" valign="top">
- <h3> Domestic Wiring & Distribution</h3>
+ <h3>Domestic Wiring & Distribution</h3>
  <ul>
  <li><b>Residential Layouts:</b> Designing lighting matrices, power ring mains, and consumer unit schedules.</li>
  <li><b>Safety Architecture:</b> Calculating load balancing, earthing/grounding systems, and RCD/MCB sizing.</li>
@@ -57,7 +57,7 @@ I specialize in designing safe, optimized, and sustainable electrical systems fo
 
 ---
 
-##  Professional Development Milestones
+## 📈 Professional Development Milestones
 
 I am bridging practical, on-site installation workflows with high-efficiency CAD design mechanics:
 - [x] **Schematic Floor Mapping:** Layer separation for power, lighting, and low-voltage distribution.
