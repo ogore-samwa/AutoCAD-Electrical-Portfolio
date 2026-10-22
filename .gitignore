@@ -1,0 +1,46 @@
+# =======================================================================
+# Official Autodesk AutoCAD & Design Drafting Portfolio .gitignore
+# =======================================================================
+
+# --- Core Drawing Backups & Autosaves (The Junk Files) ---
+*.bak
+*.sv$
+*.ac$
+
+# --- CAD Logs, Plot Spools, and Layout Errors ---
+*.err
+*.log
+*.plt
+_pnp.log
+
+# --- Sheet Set Manager Local Backups ---
+*.dst.bak
+*.ds$
+
+# --- Database & Project Workspace Locks ---
+*.ldb
+*.laccdb
+*.ace_temp
+*.wda.bak
+*.xlg
+*.chx
+
+# =======================================================================
+# White-listing Core Engineering Assets (CRITICAL PORTFOLIO PROTECTION)
+# =======================================================================
+# These rules force Git to always keep these essential formatting files,
+# even if a broad system cleanup rule tries to hide them by mistake.
+
+!*.dwg
+!*.dwt
+!*.ctb
+!*.stb
+!*.dst
+
+# =======================================================================
+# Operating System Junk
+# =======================================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
