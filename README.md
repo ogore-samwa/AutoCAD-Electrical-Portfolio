@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_USERNAME below with your GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:f7b733&height=220&section=header&text=Isaiah%20Ogore&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Electrical%20Design%20Engineer%20%7C%20Residential%20Power%20%26%20Solar%20PV&descSize=18&descAlignY=58" alt="Header banner" width="100%"/>
@@ -124,10 +122,10 @@ timeline
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ogore-samwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogore-samwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=ogore-samwa&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats" />
 
 </div>
 
@@ -138,7 +136,7 @@ timeline
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+254_795_324_668-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254795324668)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-ogore-samwa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![X](https://img.shields.io/badge/X-@sam__ogore-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sam_ogore)
 [![Instagram](https://img.shields.io/badge/Instagram-@isaiah__ogore-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isaiah_ogore)
 [![Facebook](https://img.shields.io/badge/Facebook-Isaiah_Ogore-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_HANDLE)
